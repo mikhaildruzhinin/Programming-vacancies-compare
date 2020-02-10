@@ -1,6 +1,5 @@
 # Programming vacancies compare
 
-[TODO: here would be project description]
 This script analyses salaries for different programming jobs and organizes data in two tables with average salaries for [15 most popular programming langugages](https://habr.com/ru/post/310262/). The script uses two sources with job vacancies: [HeahHunter](https://hh.ru) and [SuperJob](https://www.superjob.ru).
 
 ### How to install
